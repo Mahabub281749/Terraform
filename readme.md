@@ -37,3 +37,11 @@ I will mostly be using AWS as the primary provider.
 - Connection
 - Null Resource and Trigger
 
+## Providers
+
+- Provision AWS Resource
+- Provision Azure Resource
+- Provision GCP Resource
+
+- Provision Spotify Playlist
+- Provision Minecraft Server
