@@ -45,3 +45,15 @@ I will mostly be using AWS as the primary provider.
 
 - Provision Spotify Playlist
 - Provision Minecraft Server
+
+## Variables and Outputs
+
+- terraform.tfvars
+- additional variable files and -var-file
+- additional autoloaded files
+- -var
+- TF_VAR_
+- Ouputs CLI
+- Chaining outputs from a module
+- Local values
+- Data Sources
