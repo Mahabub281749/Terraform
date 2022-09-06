@@ -57,3 +57,11 @@ I will mostly be using AWS as the primary provider.
 - Chaining outputs from a module
 - Local values
 - Data Sources
+
+## Resource Meta Arguements
+
+- depends_on
+- count
+- for_each
+- provider and alias
+- lifecycle
