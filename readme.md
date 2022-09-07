@@ -65,3 +65,11 @@ I will mostly be using AWS as the primary provider.
 - for_each
 - provider and alias
 - lifecycle
+
+## Expressions
+
+- String Templates
+- For Expressions
+- Splats
+- Dynamic Blocks
+- Versions Constraints
