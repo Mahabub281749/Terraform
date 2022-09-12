@@ -73,3 +73,38 @@ I will mostly be using AWS as the primary provider.
 - Splats
 - Dynamic Blocks
 - Versions Constraints
+
+## Terraform State
+- terraform state list
+- terraform state mv
+- terraform state show
+- terraform state mv
+
+## Plan and Apply
+
+- Speculative Plans
+- Saved Plans
+
+## Manage Resource Drift
+
+- Replace
+- Import
+- Refresh
+
+## Troubleshooting
+
+- Terraform Log
+- Terraform Crash log
+
+## Modules
+
+- Create a module
+- Publish a module
+
+## Backends
+
+- Standard Backend with Amazon S3
+- Remote backend multiple workspaces
+- terraform_remote_state local
+- terraform_remote_state remote
+- force-unlock
