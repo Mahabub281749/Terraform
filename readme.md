@@ -108,3 +108,22 @@ I will mostly be using AWS as the primary provider.
 - terraform_remote_state local
 - terraform_remote_state remote
 - force-unlock
+
+## Resources
+
+- collection types
+- structual typeear
+
+## Functions
+
+- Built In Functions
+
+## Terraform CLoud
+
+- Terraform CLoud Permissions
+- Terraform Cloud API Token
+- Private Registry
+
+## Workspaces
+
+- Multiple workspaces Terraform Cloud
